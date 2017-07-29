@@ -43,27 +43,12 @@
   </head>
   <body>
 
-    <!--Classases retiradas: bg-inverse-->
-    <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top  navbar-transparente">
+    
 
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-
-      </button>
-
-      <?php
-         include_once("menu.php");
-      ?>
-        <!--<form class="form-inline mt-2 mt-md-0">
-          <input class="form-control mr-sm-2" type="text" placeholder="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>-->
-      </div>
-    </nav>
-
-    <div class="top-background">
+    <?php
+        include_once("menu.php");
+    ?>
         
-    </div>
 
 
     <!-- Marketing messaging and featurettes
@@ -78,11 +63,12 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
+          <span id="formation-title" >Diplôme d'ingénieur - Robotique et système embarqué. </span>
+          <h4 class="text-muted">ENSTA ParisTech - Paris - 2012-2014.</h4>
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="img/formations_ensta.jpg" alt="Generic placeholder image">
         </div>
       </div>
 
@@ -94,7 +80,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5 pull-md-7">
-          <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-fluid mx-auto" src="img/formations_unicamp.jpg"  alt="Generic placeholder image">
         </div>
       </div>
 
