@@ -20,22 +20,10 @@
 
 
     <!--Favicon-->
-    <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
-    <link rel="apple-touch-icon" sizes="57x57" href="img/favicon//apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="img/favicon//apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="img/favicon//apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="img/favicon//apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="img/favicon//apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="img/favicon//apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="img/favicon//apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="img/favicon//apple-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="img/favicon//apple-icon-180x180.png">
     <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon//android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon//favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="img/favicon//favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon//favicon-16x16.png">
     <link rel="manifest" href="img/favicon//manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="img/favicon//ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
@@ -48,7 +36,7 @@
         include_once("menu.php");
     ?>
 
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!--<div id="myCarousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -94,7 +82,53 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
+    </div>-->
+
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner" role="listbox">
+        <div class="carousel-item active">
+          <img class="d-block img-fluid" src="" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block img-fluid" src="img/Agile_Waterfall.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block img-fluid" src="img/Agile_Waterfall.jpg" alt="Third slide">
+        </div>
+      </div>
     </div>
+
+
+
+
+
+
+    <!--<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="carousel-item active">
+          <img class="d-block img-fluid" src="img/Agile_Waterfall.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block img-fluid" src="img/Agile_Waterfall.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block img-fluid" src="img/Agile_Waterfall.jpg" alt="Third slide">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>-->
 
 
     <!-- Marketing messaging and featurettes
@@ -116,8 +150,8 @@
         <!-- Ser focado nas missões dadas, tratar aquilo como seu e dar o seu melhor-->
         <div class="col-lg-4">
           <img class="rounded-circle" src="img/circle_focus.jpg" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>.</p>
+          <h2>Sens du Résultat</h2>
+          <p>Cette qualité intervient dans différentes étapes du processus de vente. Avoir le sens du résultat implique notamment d’avoir la capacité à détecter des opportunités potentielles et de mettre en œuvre les actions nécessaires pour les concrétiser. Cela peut impliquer par exemple la remise en cause des méthodes de travail, la proposition d’actions pour renforcer la performance ou pour contourner les obstacles. Avoir le sens du résultat consiste également à imaginer rapidement des plans d’action efficaces et pertinents visant à atteindre l’objectif fixé. Confiance en soi, responsabilisation et autonomie sont en général adossées au sens du résultat.</p>
           <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 

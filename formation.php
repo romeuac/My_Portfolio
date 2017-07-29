@@ -13,29 +13,17 @@
     <link rel="stylesheet" href="bootstrap-4.0.0-alpha.6/dist/css/bootstrap.min.css">
 
     <!-- Custom styles for this template -->
-    <link href="css/carousel.css" rel="stylesheet">
-    <link href="css/general_style.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/normalize.min.css">
-    <link href="css/mdb.min.css" rel="stylesheet">
+    <link href="css/carousel.css" rel="stylesheet" type="text/css">
+    <link href="css/general_style.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="css/normalize.min.css" type="text/css">
+    <link href="css/mdb.min.css" rel="stylesheet" type="text/css">
 
 
     <!--Favicon-->
-    <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
-    <link rel="apple-touch-icon" sizes="57x57" href="img/favicon//apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="img/favicon//apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="img/favicon//apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="img/favicon//apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="img/favicon//apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="img/favicon//apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="img/favicon//apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="img/favicon//apple-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="img/favicon//apple-icon-180x180.png">
     <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon//android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon//favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="img/favicon//favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon//favicon-16x16.png">
     <link rel="manifest" href="img/favicon//manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="img/favicon//ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
@@ -62,43 +50,33 @@
 
 
       <div class="row featurette">
-        <div class="col-md-7">
-          <span id="formation-title" >Diplôme d'ingénieur - Robotique et système embarqué. </span>
-          <h4 class="text-muted">ENSTA ParisTech - Paris - 2012-2014.</h4>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <div class="col-xs-7 col-sm-7 col-md-7" style="margin-top:30px">
+          <h2  >Diplôme d'ingénieur - Robotique et système embarqué </h3>
+          <h4 class="text-muted" style="padding: 10px 0">ENSTA ParisTech - Paris / FRANCE | 2012-2014</h4>
+          <p class="lead">Vaste formation en <b>système d'information</b>, avec un approfondissement dans le domaine de la robotique et systèmes embarqués.</p>
+          <p class="lead">  Un parcours qui a généré une vision système en partant des implémentations physiques, du <b>logiciel embarqué</b> et de ses contraintes de <b>temps réel</b>, de conception et de validation et les aspects algorithmique.</p>
         </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-fluid mx-auto" src="img/formations_ensta.jpg" alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7 push-md-5">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5 pull-md-7">
-          <img class="featurette-image img-fluid mx-auto" src="img/formations_unicamp.jpg"  alt="Generic placeholder image">
+        <div class="col-xs-5 col-sm-5 col-md-5 " style="margin:auto">
+          <img class="featurette-image img-fluid mx-auto" src="img/formations_ensta.jpg" style="max-width:80%">
         </div>
       </div>
 
       <hr class="featurette-divider">
 
       <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <div class="col-md-7 push-md-5" style="margin-top:30px">
+          <h2 >Diplôme d'ingénieur - Contrôle et Automatisation de Systèmes</h3>
+          <h4 class="text-muted"  style="padding: 10px 0">Unicamp - Campinas / BRÉSIL | 2009-2015.</h4>
+
+          <p class="lead">le programme offre des bases solides dans <b>les systèmes d'information, mécaniques et électronique</b>. Ces trois domaines sont nécessaires pour structurer l'approfondissement fait aux méthodes d'automatique, systèmes embarqués et la robotique.</p>
+          <p class="lead">Des sujets comme la programmation de ,<b>contrôleurs logiques, le traitement d'images </b> et chaines de production sont également abordés.</p>
         </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+        <div class="col-md-5 pull-md-7" style="margin:auto">
+          <img class="featurette-image img-fluid mx-auto" src="img/formations_unicamp.jpg"  alt="Generic placeholder image" >
         </div>
       </div>
 
-      <hr class="featurette-divider">
-
-      <!-- /END THE FEATURETTES -->
+       <!-- /END THE FEATURETTES -->
 
 
       <!-- FOOTER -->
