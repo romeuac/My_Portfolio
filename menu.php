@@ -12,19 +12,19 @@
     <ul class="navbar-nav mr-auto" >
         
         <li class="nav-item">
-        <a class="nav-link" href="formation.php">FORMATION </a> 
+        <a class="nav-link" href="formation.php" style="padding-right: 20px">FORMATION</a> 
         </li>
         
         <li class="nav-item">
-        <a class="nav-link" href="experience.php"> EXPERIENCE PROFESSIONNELLE </a> 
+        <a class="nav-link" href="experience.php" style="padding-right: 20px"> EXPERIENCE PROFESSIONNELLE</a> 
         </li>
 
-        <li class="nav-item">
+        <!--<li class="nav-item">
         <a class="nav-link" href="#"> MES PROJETS </a> 
-        </li>
+        </li>-->
 
         <li class="nav-item">
-        <a class="nav-link" href="#"> CONNAISSANCES TECHNIQUES</a>
+        <a class="nav-link" href="connaissances.php" style="padding-right: 20px"> CONNAISSANCES TECHNIQUES</a>
         </li>
     </ul>
 

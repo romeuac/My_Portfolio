@@ -10,6 +10,11 @@ body{
     background-color: white;
 }
 
+.timeline-body>ul>li {
+    list-style-type: disc;
+    margin-left: 25px;
+}
+
 
 /*  ======= NAV =============*/
 
@@ -17,11 +22,12 @@ nav.navbar-transparente{
     padding: 10px;
     background: rgba(2, 31, 78, 0.8);
     position: fixed;
+    color: rgba(255,255,255,.5);
 }
 
 .top-background{
     width: 100%;
-    height: 60px;
+    height: 59px;
     background-color: rgba(2, 31, 78, 0.8);   
 }
 
@@ -42,6 +48,26 @@ nav.navbar-transparente{
     margin-top: 30px;
 }
 
+/* ===========   CONNAISSANCES  ================*/
+h4.language{
+    display:inline;
+    padding: 0 10px 0 20px;
+}
+
+.status{
+    display: inline;
+    margin: auto;
+}
+
+.status-colored{
+    padding: 0 10px;
+    color: #32B92B;
+}
+
+.status-muted{
+    padding: 0 10px;
+    color: #898F88;
+}
 
 /* ===========   FORMATION  ================*/
 span.formation-title{
@@ -67,7 +93,22 @@ span.formation-title{
     height: 400px;
 }
 
-/*------------  footer  ----------*/
+
+/*------------  Carousel  ---------------*/
+.carousel .carousel-indicators li {
+    max-width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border-width: 10px;
+    border: 3px solid black;
+    /*background-color: rgba(180, 180, 180, 0.8);*/
+}
+
+.carousel-indicators .active {
+    background-color: rgba(2, 31, 78, 0.5);
+}
+
+/*============  footer  ==============*/
 .footer-style{
     margin: 0px 10px 0;
     padding-bottom:3rem;
@@ -98,7 +139,7 @@ span.formation-title{
         /*margin:auto;*/
         margin:0 auto;
         margin-bottom: 20px;
-        display: inline-block;
+        display: inline-grid;
         /*text-align: center;*/
     }
 
@@ -125,7 +166,7 @@ span.formation-title{
         /*For Firefox 3.6 to 15 */
         background: -moz-linear-gradient(to right, white 46%, rgba(2, 31, 78, 0.5), white 54%);  
         /* Standard syntax (must be last) */
-        background: linear-gradient(to right, white 46%, rgba(2, 31, 78, 0.5), white 54%);
+        background: linear-gradient(to right, white 70%, rgba(2, 31, 78, 0.5), white 74%);
     } 
 
     #footer-icons{

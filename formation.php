@@ -10,13 +10,13 @@
     <title>RomeuAC</title>
 
     <!-- bootstrap - local link -->
-    <link rel="stylesheet" href="bootstrap-4.0.0-alpha.6/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 
     <!-- Custom styles for this template -->
     <link href="css/carousel.css" rel="stylesheet" type="text/css">
-    <link href="css/general_style.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="css/normalize.min.css" type="text/css">
     <link href="css/mdb.min.css" rel="stylesheet" type="text/css">
+    <link href="css/general_style.css" rel="stylesheet" type="text/css">
 
 
     <!--Favicon-->
@@ -57,7 +57,9 @@
           <p class="lead">  Un parcours qui a généré une vision système en partant des implémentations physiques, du <b>logiciel embarqué</b> et de ses contraintes de <b>temps réel</b>, de conception et de validation et les aspects algorithmique.</p>
         </div>
         <div class="col-xs-5 col-sm-5 col-md-5 " style="margin:auto">
-          <img class="featurette-image img-fluid mx-auto" src="img/formations_ensta.jpg" style="max-width:80%">
+          <a href="https://www.ensta-paristech.fr/fr">
+            <img class="featurette-image img-fluid mx-auto hoverable" src="img/formations_ensta.jpg" style="max-width:80%">
+          </a>
         </div>
       </div>
 
@@ -68,11 +70,14 @@
           <h2 >Diplôme d'ingénieur - Contrôle et Automatisation de Systèmes</h3>
           <h4 class="text-muted"  style="padding: 10px 0">Unicamp - Campinas / BRÉSIL | 2009-2015.</h4>
 
-          <p class="lead">le programme offre des bases solides dans <b>les systèmes d'information, mécaniques et électronique</b>. Ces trois domaines sont nécessaires pour structurer l'approfondissement fait aux méthodes d'automatique, systèmes embarqués et la robotique.</p>
+          <p class="lead">Unicamp a été évaluée en 2017 comme <b style="color:red">la meilleure université de l'Amérique Latine</b> par le <a href="https://www.timeshighereducation.com/world-university-rankings/latin-america-university-rankings-2017-results-out-now#survey-answer">Times Higher Education (T.H.E.).</a></p>
+          <p class="lead">Le programme offre des bases solides dans <b>les systèmes d'information, mécaniques et électronique</b>. Ces trois domaines sont nécessaires pour structurer l'approfondissement fait aux méthodes d'automatique, systèmes embarqués et la robotique.</p>
           <p class="lead">Des sujets comme la programmation de ,<b>contrôleurs logiques, le traitement d'images </b> et chaines de production sont également abordés.</p>
         </div>
         <div class="col-md-5 pull-md-7" style="margin:auto">
-          <img class="featurette-image img-fluid mx-auto" src="img/formations_unicamp.jpg"  alt="Generic placeholder image" >
+          <a href="http://www.unicamp.br/unicamp/english">
+            <img class="featurette-image img-fluid mx-auto hoverable" src="img/formations_unicamp.png"  alt="Generic placeholder image" >
+          </a>
         </div>
       </div>
 
@@ -84,29 +89,6 @@
         include_once("footer.php");
       ?>
 
-    </div><!-- /.container -->
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery-3.2.1.min.js"></script>
-
-    <!--<script>window.jQuery || document.write('<script src="js/js/jquery-3.2.1.min.js"><\/script>')</script>-->
-
-    <script src="js/tether.min.js"></script>
-
-    <!--<script src="../../dist/js/bootstrap.min.js"></script>-->
-  	<!--<script src="bootstrap-4.0.0-alpha.6/dist/js/bootstrap.min.js"></script>-->
-	
-
-    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
-    <script src="js/holder.min.js"></script>
-
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="js/ie10-viewport-bug-workaround.js"></script>
-
-    <!-- MDB core JavaScript -->
-    <script type="text/javascript" src="js/mdb.min.js"></script>
+ 
   </body>
 </html>
