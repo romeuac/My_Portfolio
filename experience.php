@@ -81,7 +81,7 @@
                             </div>
                             <div class="timeline-body">
                                 <ul>
-                                    <p><u>1ère fonction:</u> <b>Analyste fonctionnel</b></p>
+                                    <p><u>1ère fonction: </u> <b>Analyste fonctionnel</b></p>
                                     <li>Dans le projet d'implantation de services et customisation du logiciel de reconnaissance biométrique sur le plus grand client de l'entreprise.</li>
                                     <li>Une application serveur pour faire des comparaisons biométriques sur une base de données de <b>55 millions des enregistrements</b> (chacun avec 10 photos des empreintes digitales et photo faciale pour les comparaisons).</li>
                                     <li>Ce projet a été développé en <b>JAVA</b>, base de donné Oracle, système d'exploitation Oracle Linux 6.7, serveur <b>Appache</b>.</li>
