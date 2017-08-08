@@ -53,7 +53,9 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="carousel-item active">
-          <img class="first-slide img-fluid" src="img/Agile_Waterfall.jpg" alt="First slide">
+          <div class="inner-item"> 
+          <img class="first-slide img-fluid" src="img/Agile_carousel.png" alt="First slide">
+          </div>
           <div class="container">
             <div class="carousel-caption d-none d-md-block text-left">
               <!--<h1 style="color:black; padding: 40px 40px 0 0">Expérience dans les methodologies Agiles et Cascades.</h1>-->
@@ -63,7 +65,9 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img class="second-slide img-fluid" src="img/Carousel_Formations.jpg" alt="Second slide">
+          <div class="inner-item"> 
+            <img class="second-slide img-fluid" src="img/Carousel_Formations.jpg" alt="Second slide">
+          </div>
           <div class="container">
             <div class="carousel-caption d-none d-md-block">
               <!--<h1>Another example headline.</h1>
@@ -73,7 +77,9 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img class="third-slide img-fluid" src="img/index_connaissances.jpg" alt="Third slide">
+          <div class="inner-item"> 
+            <img class="third-slide img-fluid" src="img/index_connaissances.jpg" alt="Third slide">
+          </div>
           <div class="container">
             <div class="carousel-caption d-none d-md-block text-right">
               <!--<h1>One more for good measure.</h1>

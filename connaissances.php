@@ -60,10 +60,13 @@
                 <a href="#HTML" class="dropdown-item">HTML<i class="fa fa-html5" aria-hidden="true"></i></a>
                 <a href="#CSS" class="dropdown-item">CSS<i class="fa fa-css3" aria-hidden="true"></i></a>
                 <a href="#Javascript" class="dropdown-item">Javascript</a>
+                <a href="#ASP" class="dropdown-item">ASP.Net</a>
                 <a href="#PHP" class="dropdown-item">PHP</a>
                 <hr class="divider">
                 <h6 class="dropdown-header">Langages de Systèmes</h6>
                 <a href="#Python" class="dropdown-item">Python</a>
+                <a href="#Csharp" class="dropdown-item">C#</a>
+                <a href="#VB" class="dropdown-item">VB.Net</a>
                 <a href="#C" class="dropdown-item">C/C++</a>
                 <a href="#Java" class="dropdown-item">Java</a>
                 <a href="#VHDL" class="dropdown-item">VHDL</a>
@@ -93,11 +96,11 @@
                         <h4 style="display:inline"><b>HTML</b></h3> <i class="fa fa-html5 fa-2x" aria-hidden="true"></i>
                     </div>
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -111,15 +114,15 @@
 
 
                     <div class="col-xs-8 col-sm-8 status" style="display:inline"  >
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
-                <hr class="divider" id="PHP">
+                <hr class="divider" id="ASP">
 
                 <div class="row">
                     <div class="col-xs-4 col-sm-4 language" >
@@ -128,11 +131,29 @@
                     </div>
 
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                    </div>                            
+                </div> <!-- /row -->
+
+
+                <hr class="divider" id="PHP">
+
+                <div class="row">
+                    <div class="col-xs-4 col-sm-4 language" >
+                        <h4 style="display:inline"><b>ASP.NET</b></h3>
+                        <p>MVC</p>
+                    </div>
+
+                    <div class="col-xs-8 col-sm-8 status">
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -144,11 +165,11 @@
                     </div>
 
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -192,18 +213,48 @@
         <div class="row"> 
             <div class="col-md-6">
                 
-                <hr class="divider"  id="C">
+                <hr class="divider"  id="Csharp">
                 <div class="row">
                     <div class="col-xs-4 col-sm-4 language" >
                         <h4 style="display:inline"><b>Python</b></h3> 
                         <p> <a href="http://opencv.org/">OpenCV</a>, <a href="http://wiki.ros.org/">ROS(Robot Operating System)</a>, NumPy, PyFuzzy, GnuPlotPy </p>
                     </div>
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                    </div>                            
+                </div> <!-- /row -->
+
+                <hr class="divider"  id="VB">
+                <div class="row">
+                    <div class="col-xs-4 col-sm-4 language" >
+                        <h4 style="display:inline"><b>C#</b></h3> 
+                        <p><b>.Net</B>Core, .NetFramework, Entity Framework</p>
+                    </div>
+                    <div class="col-xs-8 col-sm-8 status">
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                    </div>                            
+                </div> <!-- /row -->
+
+                <hr class="divider"  id="C">
+                <div class="row">
+                    <div class="col-xs-4 col-sm-4 language" >
+                        <h4 style="display:inline"><b>VB.Net</b></h3> 
+            
+                    </div>
+                    <div class="col-xs-8 col-sm-8 status">
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -214,11 +265,11 @@
                         <p><a href="http://opencv.org/">OpenCV</a>, <a href="https://www.qt.io/developers/">Qt</a>, <a href="http://www.accellera.org/downloads/standards/systemc">SystemC</a>, <a href="https://developer.nvidia.com/how-to-cuda-c-cpp">CUDA</a> </p>
                     </div>
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -229,11 +280,11 @@
                         <p>Java SE, Java EE</p>
                     </div>
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -244,11 +295,11 @@
                         <p>Utilisation sur FPGA </p>
                     </div>
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -302,11 +353,11 @@
                         <p>Simulink</p>
                     </div>
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -318,11 +369,11 @@
                         
                     </div>
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -334,11 +385,11 @@
                         
                     </div>
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 
@@ -393,14 +444,14 @@
                 <div class="row">
                     <div class="col-xs-4 col-sm-4 language" >
                         <h4 style="display:inline">SQL</h3> 
-                        <p>MySQL</p>
+                        <p>SQL Server, MySQL</p>
                     </div>
                     <div class="col-xs-8 col-sm-8 status">
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-colored" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
-                        <i class="fa fa-circle fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star fa-2x status-colored" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
+                        <i class="fa fa-star-o fa-2x status-muted" aria-hidden="true"></i>
                     </div>                            
                 </div> <!-- /row -->
 

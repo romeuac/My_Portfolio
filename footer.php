@@ -20,7 +20,7 @@
 
                         <li class="footer-icons">
                             <a href="mailto:romeuac@gmail.com">
-                                <img class="social-network hoverable footer-icons" src="img/gmail.png" title="romeuac@gmail.com">
+                                <img class="social-network hoverable footer-icons" src="img/gmail.svg" title="romeuac@gmail.com">
                             </a>
                         </li>
                         <!--<li><a href="#"><img class="social-network hoverable" src="img/facebook.png"></a></li>-->
