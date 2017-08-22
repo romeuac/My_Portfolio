@@ -35,7 +35,7 @@ nav.navbar-transparente{
 /* ======  Content  ================*/
 .First_Title{
     text-align: center; 
-    margin-bottom: 45px;
+    margin-bottom: 65px;
 }
 
 .company-name{
@@ -171,7 +171,7 @@ span.formation-title{
         /*padding: auto;*/
         /*display: block;*/
         /*margin:auto;*/
-        margin:0 auto;
+        margin:10px auto;
         margin-bottom: 20px;
         display: inline-grid;
         /*text-align: center;*/
@@ -209,7 +209,7 @@ span.formation-title{
         /*padding: auto;*/
         /*display: block;*/
         /*margin:auto;*/
-        margin:0 auto;
+        margin:10px auto;
         margin-bottom: 20px;
         display: inline-grid;
         /*text-align: center;*/
@@ -243,17 +243,18 @@ span.formation-title{
     
     .grad1 {
         /* For Safari 5.1 to 6.0 */
-        background: -webkit-linear-gradient(to right, white 46%, rgba(2, 31, 78, 0.5), white 54%);
+        background: -webkit-linear-gradient(to right, white 63%, rgba(2, 31, 78, 0.5), white 66%);
         /* For Opera 11.1 to 12.0 */
-        background: -o-linear-gradient(to right, white 46%, rgba(2, 31, 78, 0.5), white 54%);;
+        background: -o-linear-gradient(to right, white 63%, rgba(2, 31, 78, 0.5), white 66%);
         /*For Firefox 3.6 to 15 */
-        background: -moz-linear-gradient(to right, white 46%, rgba(2, 31, 78, 0.5), white 54%);  
+        background: -moz-linear-gradient(to right, white 63%, rgba(2, 31, 78, 0.5), white 66%);  
         /* Standard syntax (must be last) */
-        background: linear-gradient(to right, white 70%, rgba(2, 31, 78, 0.5), white 74%);
+        background: linear-gradient(to right, white 63%, rgba(2, 31, 78, 0.5), white 66%);
     } 
 
     #footer-icons{
         float: left;
+        margin:10px auto;
     }
 
     #footer-message{
@@ -276,6 +277,27 @@ span.formation-title{
 
  @media only screen and (min-width: 992px) {
     
+    .grad1 {
+        /* For Safari 5.1 to 6.0 */
+        background: -webkit-linear-gradient(to right, white 63%, rgba(2, 31, 78, 0.5), white 66%);
+        /* For Opera 11.1 to 12.0 */
+        background: -o-linear-gradient(to right, white 63%, rgba(2, 31, 78, 0.5), white 66%);
+        /*For Firefox 3.6 to 15 */
+        background: -moz-linear-gradient(to right, white 63%, rgba(2, 31, 78, 0.5), white 66%);  
+        /* Standard syntax (must be last) */
+        background: linear-gradient(to right, white 63%, rgba(2, 31, 78, 0.5), white 66%);
+    } 
+
+    #footer-icons{
+        float: left;
+        margin:10px auto;
+    }
+
+    #footer-message{
+        margin:auto; 
+        text-align: right;
+    }
+
     .carousel-inner, .carousel-item{
         width: 100%;  
         height: 500px!important;
@@ -283,6 +305,11 @@ span.formation-title{
 
     .carousel-item > div > img {
         max-height: 500px;
+    }
+
+    #footer-icons{
+        float: left;
+        margin:10px auto;
     }
 
 } 
